@@ -32,8 +32,9 @@ Jing Luan -- jingluan dot xw AT gmail dot com
 
 ## Prerequisites
 
-* pytorch
-* numpy
+* pytorch: https://pytorch.org/
+* numpy: pip install numpy
+* cuda: the `simulation.py` is meant to run on cuda-enabled gpu. 
 
 ## Acknowledgement
 
