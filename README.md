@@ -19,7 +19,10 @@ This piece of work is a proof of concept to show that integrating reinforcement 
 The figure below shows the main result.
 
 <p align="center">
-  <img src="result.png" width="350">
+  <img src="result.png" width="600">
+  <p>
+  Explanations of the legends: "SVD" means the result based purely on "singular value decomposition". "SVD_RL_10" means the result of integrating reinforcement leaning into SVD. The "10" here means "after 10 Monte-Carlo simulations". Each simulation simulates 60 interactions between the recommender and the users. The reinforcement learning part learns (updates) the action-value function through simulations. The more simulations, the better the reinforcement learning helps with the recommendation system.
+  </p>
 </p>
 
 ## Author
