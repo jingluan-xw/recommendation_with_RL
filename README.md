@@ -18,7 +18,9 @@ This piece of work is a proof of concept to show that integrating reinforcement 
 
 The figure below shows the main result.
 
-![](result.png)
+<p align="center">
+  <img src="result.png" width="350">
+</p>
 
 ## Author
 
@@ -32,4 +34,4 @@ Jing Luan -- jingluan dot xw AT gmail dot com
 
 ## Acknowledgement
 
-I am supported by the Institute of Advanced Study, Princeton, New Jersey. Thanks to Zhipeng Wang for introducing me to Reinforcement learning and making valuable suggestions. 
+I am supported by the Institute of Advanced Study, Princeton, New Jersey. Thanks to Zhipeng Wang for introducing me to Reinforcement learning and making valuable suggestions.
