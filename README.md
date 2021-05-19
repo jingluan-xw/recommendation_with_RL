@@ -10,7 +10,7 @@ We need a way to make a recommender long-sighted by changing its goal (objective
 
 This piece of work is a proof of concept to show that integrating reinforcement learning technique into a recommendation system based on matrix factorization could improve the long-term reward, e.g. the cumulative number of purchases (or likes) by users. It is still far from being practical in the real world. This piece of work is based on simulations rather than real-world data.
 
-* The jupyter notebook `SVD_RL_Recommendation_StepbyStep.ipynb` explains the thought process and shows the development of the algorithm step by step.
+* The jupyter notebook `SVD_RL_Recommendation_StepbyStep.ipynb` explains each step during the development of the algorithm step by step.
 
 * The python script `simulation.py` wraps up everything in the jupyter notebook and carries out the simulations.
 
